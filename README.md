@@ -20,7 +20,7 @@
 ## Usage
 
 To run the project:
-[![My Awesome Project Demo](https://img.youtube.com/vi/<YOUR_YOUTUBE_VIDEO_ID>/0.jpg)]
+
 
 ```bash
 python main.py --input data.csv --output results.txt
