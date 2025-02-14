@@ -20,7 +20,7 @@
 ## Usage
 
 To run the project:
-   ![APP C++](./video/App c++.webm)
+  * (https://youtu.be/X2o7PDEgnR8)
 
 ```bash
 python main.py --input data.csv --output results.txt
