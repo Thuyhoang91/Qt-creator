@@ -20,7 +20,6 @@
 ## Usage
 
 To run the project:
-  * (https://youtu.be/X2o7PDEgnR8)
+  * App c++ (https://youtu.be/X2o7PDEgnR8)
 
-```bash
-python main.py --input data.csv --output results.txt
+
