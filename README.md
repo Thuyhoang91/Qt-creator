@@ -9,22 +9,11 @@ Create app
 
 ## Installation
 
-1.  **Prerequisites:**
-    *   Python 3.7 or higher
-    *   pip package manager
-
-2.  **Clone the repository:**
-
-    ```bash
-    git clone https://github.com/your-username/your-repo.git
-    cd your-repo
-    ```
-
-3.  **Install dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
+  **APP C++ **
+    *   Qt Creator
+    *   https://www.qt.io/offline-installers
+  **Create "PATH" to compile **
+    *    
 
 ## Usage
 
