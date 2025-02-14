@@ -9,10 +9,10 @@ Create app
 
 ## Installation
 
-  **APP C++ **
+1. **APP C++: **
     *   Qt Creator
     *   https://www.qt.io/offline-installers
-  **Create "PATH" to compile **
+2. **Create "PATH" to compile **
     *    
 
 ## Usage
