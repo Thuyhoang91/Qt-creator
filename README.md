@@ -6,7 +6,7 @@
 
 *   [Installation](#installation)
 *   [Usage](#usage)
-*   [Contributing](#contributing)
+*   [Contact](#contributing)
 *   [License](#license)
 
 ## Installation
@@ -21,5 +21,10 @@
 
 To run the project:
   * App c++ (https://youtu.be/X2o7PDEgnR8)
+
+## Contact
+
+1.  **Email:**
+    *  transitruongthanh@gmail.com
 
 
